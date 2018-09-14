@@ -1,3 +1,5 @@
+#programa que calcula o número médio de pacotes necessários para completar um álbum com 681 figurinhas.
+
 import numpy as np
 import statistics as st
 import matplotlib.pyplot as plt
